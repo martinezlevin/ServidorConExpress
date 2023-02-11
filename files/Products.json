@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "product",
+      "description": "this is a test product",
+      "price": 50,
+      "thumbnail": "no image",
+      "code": "1q",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "title": "product",
+      "description": "this is a test product",
+      "price": 50,
+      "thumbnail": "no image",
+      "code": "2w",
+      "stock": 10
+    },
+    {
+      "id": 3,
+      "title": "product",
+      "description": "this is a test product",
+      "price": 50,
+      "thumbnail": "no image",
+      "code": "3e",
+      "stock": 10
+    },
+    {
+      "id": 4,
+      "title": "product",
+      "description": "this is a test product",
+      "price": 50,
+      "thumbnail": "no image",
+      "code": "4r",
+      "stock": 10
+    },
+    {
+      "id": 5,
+      "title": "product",
+      "description": "this is a test product",
+      "price": 50,
+      "thumbnail": "no image",
+      "code": "5t",
+      "stock": 10
+    },
+    {
+      "id": 6,
+      "title": "product",
+      "description": "this is a test product",
+      "price": 50,
+      "thumbnail": "no image",
+      "code": "6y",
+      "stock": 10
+    },
+    {
+      "id": 7,
+      "title": "product",
+      "description": "this is a test product",
+      "price": 50,
+      "thumbnail": "no image",
+      "code": "7u",
+      "stock": 10
+    },
+    {
+      "id": 8,
+      "title": "product",
+      "description": "this is a test product",
+      "price": 50,
+      "thumbnail": "no image",
+      "code": "8i",
+      "stock": 10
+    },
+    {
+      "id": 9,
+      "title": "product",
+      "description": "this is a test product",
+      "price": 50,
+      "thumbnail": "no image",
+      "code": "9o",
+      "stock": 10
+    },
+    {
+      "id": 10,
+      "title": "product",
+      "description": "this is a test product",
+      "price": 50,
+      "thumbnail": "no image",
+      "code": "0p",
+      "stock": 10
+    }
+  ]
